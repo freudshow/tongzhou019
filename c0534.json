@@ -1,0 +1,98 @@
+{
+  "Pad": {
+    "SleepBeforeRunning": 30,
+    "PeriodicPollingInterval_ms": 50,
+    "UpdateDataCenterInterval_s": 2,
+    "DataChangeReport": 1,
+    "MqttIP": "172.17.0.1",
+    "MqttPort": "1883",
+    "AppName": "e9361app",
+    "AppDesc": "e9361app"
+  },
+  "devListCount": 1,
+  "devlist": [
+    {
+      "devNo": 1,
+      "linkNo": 4,
+      "port": "1",
+      "addr": "2",
+      "model": "EndTerminal",
+      "desc": "末端分支终端",
+      "datacount": 12,
+      "data": [
+        {
+          "RtdbNo": 147,
+          "Desc": "设备[1]-A相电压-实时库号[147]",
+          "DataType": 1,
+          "ModeName": "PhV_phsA"
+        },
+        {
+          "RtdbNo": 148,
+          "Desc": "设备[1]-B相电压-实时库号[148]",
+          "DataType": 1,
+          "ModeName": "PhV_phsB"
+        },
+        {
+          "RtdbNo": 149,
+          "Desc": "设备[1]-C相电压-实时库号[149]",
+          "DataType": 1,
+          "ModeName": "PhV_phsC"
+        },
+        {
+          "RtdbNo": 150,
+          "Desc": "设备[1]-A相电流-实时库号[150]",
+          "DataType": 1,
+          "ModeName": "A_phsA"
+        },
+        {
+          "RtdbNo": 151,
+          "Desc": "设备[1]-B相电流-实时库号[151]",
+          "DataType": 1,
+          "ModeName": "A_phsB"
+        },
+        {
+          "RtdbNo": 152,
+          "Desc": "设备[1]-C相电流-实时库号[152]",
+          "DataType": 1,
+          "ModeName": "A_phsC"
+        },
+        {
+          "RtdbNo": 153,
+          "Desc": "设备[1]-功率因数-实时库号[153]",
+          "DataType": 1,
+          "ModeName": "TotPF"
+        },
+        {
+          "RtdbNo": 154,
+          "Desc": "设备[1]-总有功功率-实时库号[154]",
+          "DataType": 1,
+          "ModeName": "TotW"
+        },
+        {
+          "RtdbNo": 155,
+          "Desc": "设备[1]-视在功率-实时库号[155]",
+          "DataType": 1,
+          "ModeName": "TotVA"
+        },
+        {
+          "RtdbNo": 156,
+          "Desc": "设备[1]-月发电量-实时库号[156]",
+          "DataType": 1,
+          "ModeName": "MWh"
+        },
+        {
+          "RtdbNo": 157,
+          "Desc": "设备[1]-年发电量-实时库号[157]",
+          "DataType": 1,
+          "ModeName": "YWh"
+        },
+        {
+          "RtdbNo": 158,
+          "Desc": "设备[1]-总发电量-实时库号[158]",
+          "DataType": 1,
+          "ModeName": "TotWh"
+        }
+      ]
+    }
+  ]
+}
