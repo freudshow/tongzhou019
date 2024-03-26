@@ -23,7 +23,7 @@
   "MeterList": [
     {
       "Sequence": 0,
-      "Address": "112233445566",
+      "Address": "111111111111",
       "Model": "LTU",
       "ModbusSeq": 2,
       "LinkNo": 4,
@@ -31,7 +31,7 @@
     },
     {
       "Sequence": 1,
-      "Address": "600314032320",
+      "Address": "202303140360",
       "Model": "LTU",
       "ModbusSeq": 5,
       "LinkNo": 4,
@@ -39,7 +39,7 @@
     },
     {
       "Sequence": 2,
-      "Address": "750314032320",
+      "Address": "202303140375",
       "Model": "LTU",
       "ModbusSeq": 3,
       "LinkNo": 4,
@@ -47,15 +47,15 @@
     },
     {
       "Sequence": 3,
-      "Address": "881708102220",
+      "Address": "202210081829",
       "Model": "LTU",
-      "ModbusSeq": 31,
+      "ModbusSeq": 23,
       "LinkNo": 4,
       "LinkDevNo": 4
     },
     {
       "Sequence": 4,
-      "Address": "840314032320",
+      "Address": "202303140384",
       "Model": "LTU",
       "ModbusSeq": 4,
       "LinkNo": 4,
@@ -63,7 +63,7 @@
     },
     {
       "Sequence": 5,
-      "Address": "201708102220",
+      "Address": "202210081720",
       "Model": "LTU",
       "ModbusSeq": 6,
       "LinkNo": 4,
@@ -71,11 +71,33 @@
     },
     {
       "Sequence": 6,
-      "Address": "291808102220",
+      "Address": "202210081666",
       "Model": "LTU",
-      "ModbusSeq": 23,
+      "ModbusSeq": 7,
       "LinkNo": 4,
       "LinkDevNo": 7
+    },
+    {
+      "Name": null,
+      "Depth": 0,
+      "Children": [],
+      "Sequence": 7,
+      "Address": "202210081883",
+      "Model": "LTU",
+      "ModbusSeq": 8,
+      "LinkNo": 4,
+      "LinkDevNo": 8
+    },
+    {
+      "Name": null,
+      "Depth": 0,
+      "Children": [],
+      "Sequence": 8,
+      "Address": "202210081578",
+      "Model": "LTU",
+      "ModbusSeq": 18,
+      "LinkNo": 0,
+      "LinkDevNo": 0
     }
   ]
 }
