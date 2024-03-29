@@ -1,6 +1,6 @@
 {
   "applianceName": "未命名",
-  "TotalYcCount": 117,
+  "TotalYcCount": 16,
   "TotalYxCount": 0,
   "TotalYkCount": 0,
   "TotalDDCount": 0,
@@ -137,6 +137,36 @@
     },
     {
       "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+	{
+      "linkNo": 6,
       "devNo": 1,
       "RegNo": 0,
       "type": 1,
@@ -267,6 +297,36 @@
     },
     {
       "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+	{
+      "linkNo": 6,
       "devNo": 2,
       "RegNo": 0,
       "type": 1,
@@ -397,6 +457,35 @@
     },
     {
       "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },{
+      "linkNo": 6,
       "devNo": 3,
       "RegNo": 0,
       "type": 1,
@@ -527,6 +616,36 @@
     },
     {
       "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+	{
+      "linkNo": 6,
       "devNo": 4,
       "RegNo": 0,
       "type": 1,
@@ -657,6 +776,36 @@
     },
     {
       "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+	{
+      "linkNo": 6,
       "devNo": 5,
       "RegNo": 0,
       "type": 1,
@@ -787,6 +936,36 @@
     },
     {
       "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+	{
+      "linkNo": 6,
       "devNo": 6,
       "RegNo": 0,
       "type": 1,
@@ -917,6 +1096,36 @@
     },
     {
       "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+	{
+      "linkNo": 6,
       "devNo": 7,
       "RegNo": 0,
       "type": 1,
@@ -1047,6 +1256,36 @@
     },
     {
       "linkNo": 6,
+      "devNo": 7,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 7,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 7,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+	{
+      "linkNo": 6,
       "devNo": 8,
       "RegNo": 0,
       "type": 1,
@@ -1172,6 +1411,36 @@
       "type": 1,
       "Name": "日发电量",
       "ModelName": "DWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 8,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": "",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 8,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 8,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0
     }
