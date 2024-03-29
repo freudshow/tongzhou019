@@ -1,0 +1,25 @@
+{
+  "roott": {
+    "DataItemCount": 1,
+    "DataItem": [
+      {
+        "no": 1,
+        "mapaddr_index": 5,
+        "para1": 2,
+        "para2": 16,
+        "para3": 33824,
+        "para4": 2,
+        "para5": 65,
+        "para6": 3,
+        "para7": 1,
+        "para_comment": 0,
+        "para8": 500,
+        "para9": 0,
+        "para10": 0,
+        "defaultValue": "111111111111",
+        "IOTValue": "",
+        "desc": "分别为7个形参，如果用不到填0"
+      }
+    ]
+  }
+}

@@ -12,7 +12,7 @@
   "devListCount": 9,
   "devlist": [
     {
-      "devNo": 1,
+      "devNo": 0,
       "linkNo": 4,
       "port": "1",
       "addr": "2",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "devNo": 2,
+      "devNo": 1,
       "linkNo": 4,
       "port": "1",
       "addr": "5",
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "devNo": 3,
+      "devNo": 2,
       "linkNo": 4,
       "port": "1",
       "addr": "3",
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "devNo": 4,
+      "devNo": 3,
       "linkNo": 4,
       "port": "1",
       "addr": "23",
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "devNo": 5,
+      "devNo": 4,
       "linkNo": 4,
       "port": "1",
       "addr": "4",
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "devNo": 6,
+      "devNo": 5,
       "linkNo": 4,
       "port": "1",
       "addr": "6",
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "devNo": 7,
+      "devNo": 6,
       "linkNo": 4,
       "port": "1",
       "addr": "7",
@@ -635,7 +635,7 @@
       ]
     },
     {
-      "devNo": 8,
+      "devNo": 7,
       "linkNo": 4,
       "port": "1",
       "addr": "8",
@@ -724,7 +724,7 @@
       ]
     },
     {
-      "devNo": 9,
+      "devNo": 8,
       "linkNo": 4,
       "port": "1",
       "addr": "18",
@@ -811,6 +811,17 @@
           "ModeName": "DWh"
         }
       ]
+    }
+  ],
+  "Para": [
+    {
+      "No": 1,
+      "IotKeyString": "NBQ_1_P",
+      "Desc": "通过载波下发modbus通用函数(float)",
+      "Unit": "float4字节",
+      "Type": 38,
+      "MapAddr": 5,
+      "DevNo": 0
     }
   ]
 }
