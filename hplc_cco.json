@@ -78,9 +78,6 @@
       "LinkDevNo": 7
     },
     {
-      "Name": null,
-      "Depth": 0,
-      "Children": [],
       "Sequence": 7,
       "Address": "202210081883",
       "Model": "LTU",
@@ -89,15 +86,12 @@
       "LinkDevNo": 8
     },
     {
-      "Name": null,
-      "Depth": 0,
-      "Children": [],
       "Sequence": 8,
       "Address": "202210081578",
       "Model": "LTU",
       "ModbusSeq": 18,
-      "LinkNo": 0,
-      "LinkDevNo": 0
+      "LinkNo": 4,
+      "LinkDevNo": 9
     }
   ]
 }
